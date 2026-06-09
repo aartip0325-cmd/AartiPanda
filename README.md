@@ -1,2 +1,2 @@
 # AartiPanda
-my name is aarti
+my name is aarti. this is my first Git Repository
