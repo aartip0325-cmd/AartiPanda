@@ -1,2 +1,4 @@
 # AartiPanda
-my name is aarti. this is my first Git Repository
+my name is aarti. 
+<br>
+this is my first Git Repository Demo
